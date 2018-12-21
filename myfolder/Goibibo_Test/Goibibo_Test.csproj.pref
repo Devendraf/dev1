@@ -1,0 +1,19 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="International_flight.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="Goibibo_Test.rxtst" />
+    <Element value="International_flight.rxrec" />
+    <Element value="GIBUS.rxrec" />
+    <Element value="Dom_hotel.rxrec" />
+    <Element value="IH.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+    <Array name="recentusercodeselections" />
+  </Properties>
+</Properties>

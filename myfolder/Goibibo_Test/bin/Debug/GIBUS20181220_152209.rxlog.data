@@ -1,0 +1,1338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="19c46b964a223075"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="devendra.gupta"
+		rxversion="8.3.0.0"
+		host="GI-TEMP-NOC"
+		osversion="Windows 7 Service Pack 1 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="12/20/2018 3:22:14 PM"
+		timestampiso="2018-12-20T09:52:14"
+		endtime="12/20/2018 3:23:42 PM"
+		timeoutfactor="1"
+		module="GIBUS">
+		<detail>
+			GIBUS
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.963"
+			timeRelativeToTestModuleStartTime="00:08.964"
+			timeWallClock="15:22:22"
+			time="00:08.963"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.IconBusDbBlueIco24Lh12PadT5PadB51' at 13;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'header']/div[1]/ul/?/?/a[@href~'^https://www\.goibibo\.com/b']/i"
+				itempath=".//div[#'header']/div[1]/ul/?/?/a[@href~'^https://www\.goibibo\.com/b']/i"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.IconBusDbBlueIco24Lh12PadT5PadB51"
+				id="c02c09a916e34adb8a41fb31617694c4"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.572"
+			timeRelativeToTestModuleStartTime="00:12.573"
+			timeWallClock="15:22:26"
+			time="00:12.572"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.GiSource' at 120;21.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'gi_source']"
+				itempath=".//input[#'gi_source']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.GiSource"
+				id="1255ee53cdc64ab18b20704a78c43955"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.782"
+			timeRelativeToTestModuleStartTime="00:15.783"
+			timeWallClock="15:22:29"
+			time="00:15.782"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'Delhi' with focus on 'Hotel.OnlineFlightBookingHotelsBusAmp.GiSource'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'gi_source']"
+				itempath=".//input[#'gi_source']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.GiSource"
+				id="1255ee53cdc64ab18b20704a78c43955"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.803"
+			timeRelativeToTestModuleStartTime="00:16.804"
+			timeWallClock="15:22:30"
+			time="00:16.803"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.MainTxt1' at 110;2.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'gi_source_wrapper']/?/?/ul/li[1]/div[1]/div"
+				itempath=".//div[#'gi_source_wrapper']/?/?/ul/li[1]/div[1]/div"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.MainTxt1"
+				id="7ee0e427ab2f44b7936e65e10c91b51d"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.143"
+			timeRelativeToTestModuleStartTime="00:18.144"
+			timeWallClock="15:22:32"
+			time="00:18.143"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.GiDestination' at 87;35.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'gi_destination']"
+				itempath=".//input[#'gi_destination']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.GiDestination"
+				id="117d00da34f9489f937d3ea708b4ca1f"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.166"
+			timeRelativeToTestModuleStartTime="00:19.167"
+			timeWallClock="15:22:33"
+			time="00:19.166"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'Agra' with focus on 'Hotel.OnlineFlightBookingHotelsBusAmp.GiDestination'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'gi_destination']"
+				itempath=".//input[#'gi_destination']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.GiDestination"
+				id="117d00da34f9489f937d3ea708b4ca1f"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="102"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.086"
+			timeRelativeToTestModuleStartTime="00:20.087"
+			timeWallClock="15:22:34"
+			time="00:20.086"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.Current' at 91;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'gi_destination_wrapper']/?/?/ul/li[1]"
+				itempath=".//div[#'gi_destination_wrapper']/?/?/ul/li[1]"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Current"
+				id="bf3fd9cd2f0f4dc4bfa876e8fb5fc1aa"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="106"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.369"
+			timeRelativeToTestModuleStartTime="00:21.370"
+			timeWallClock="15:22:35"
+			time="00:21.369"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.GiOnwardText' at 106;23.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'gi_onward_text']"
+				itempath=".//input[#'gi_onward_text']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.GiOnwardText"
+				id="52ac80a0b3654646a8fbb58df30980a9"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="110"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.472"
+			timeRelativeToTestModuleStartTime="00:22.473"
+			timeWallClock="15:22:36"
+			time="00:22.472"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.SpanTag22' at 1;3.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//td[#'jrdp_start-calen_1_22_2019']/?/?/span[@innertext='22']"
+				itempath=".//td[#'jrdp_start-calen_1_22_2019']/?/?/span[@innertext='22']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.SpanTag22"
+				id="9355b808e7094bc7a274926cc222f88b"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="114"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:23.847"
+			timeRelativeToTestModuleStartTime="00:23.848"
+			timeWallClock="15:22:37"
+			time="00:23.847"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.GiSearchBtn' at 51;27.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//button[#'gi_search_btn']"
+				itempath=".//button[#'gi_search_btn']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.GiSearchBtn"
+				id="42685a5d8461495cbf5632933c34acd9"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="118"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.902"
+			timeRelativeToTestModuleStartTime="00:24.903"
+			timeWallClock="15:22:38"
+			time="00:24.902"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -600 units.
+			</message>
+			<metainfo
+				itemindex="10"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="122"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:25.413"
+			timeRelativeToTestModuleStartTime="00:25.414"
+			timeWallClock="15:22:39"
+			time="00:25.413"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 720 units.
+			</message>
+			<metainfo
+				itemindex="11"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="126"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:25.924"
+			timeRelativeToTestModuleStartTime="00:25.925"
+			timeWallClock="15:22:39"
+			time="00:25.924"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.Time' at 6;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//a[#'timesliner']/?/?/span[@innertext='Time']"
+				itempath=".//a[#'timesliner']/?/?/span[@innertext='Time']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Time"
+				id="1df315aa8b7c4449963afc9ec8e9962b"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="130"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.048"
+			timeRelativeToTestModuleStartTime="00:27.049"
+			timeWallClock="15:22:41"
+			time="00:27.048"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.BoardingPoint' at 63;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//a[#'bpliner']/?/?/span[@innertext='Boarding Point']"
+				itempath=".//a[#'bpliner']/?/?/span[@innertext='Boarding Point']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.BoardingPoint"
+				id="fc91b7e10a194f6a839ef70c49c29edb"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="134"
+				itemindex="13"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:28.269"
+			timeRelativeToTestModuleStartTime="00:28.270"
+			timeWallClock="15:22:42"
+			time="00:28.269"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -600 units.
+			</message>
+			<metainfo
+				itemindex="14"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="138"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:28.776"
+			timeRelativeToTestModuleStartTime="00:28.777"
+			timeWallClock="15:22:42"
+			time="00:28.776"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 1080 units.
+			</message>
+			<metainfo
+				itemindex="15"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="142"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:29.293"
+			timeRelativeToTestModuleStartTime="00:29.294"
+			timeWallClock="15:22:43"
+			time="00:29.293"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.DroppingPoint' at 7;1.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//a[#'dpliner']/?/?/span[@innertext='Dropping Point ']"
+				itempath=".//a[#'dpliner']/?/?/span[@innertext='Dropping Point ']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.DroppingPoint"
+				id="1b3de8fc23e74a0987374e860771a360"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="146"
+				itemindex="16"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:30.760"
+			timeRelativeToTestModuleStartTime="00:30.761"
+			timeWallClock="15:22:44"
+			time="00:30.760"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.BusOperators' at 81;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//a[#'opliner']/?/?/span[@innertext='Bus Operators']"
+				itempath=".//a[#'opliner']/?/?/span[@innertext='Bus Operators']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.BusOperators"
+				id="aa562c35c40e482593c5527bd669f44f"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="150"
+				itemindex="17"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:31.857"
+			timeRelativeToTestModuleStartTime="00:31.858"
+			timeWallClock="15:22:45"
+			time="00:31.857"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.ATagCp' at 30;10.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//a[#'cp']"
+				itempath=".//a[#'cp']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.ATagCp"
+				id="e262c6c473e146eeadc5ca043bd24a82"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="154"
+				itemindex="18"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:32.925"
+			timeRelativeToTestModuleStartTime="00:32.926"
+			timeWallClock="15:22:46"
+			time="00:32.925"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.FtBookbtn' at 55;18.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//ul[#'fl']/li/div[4]/div/div[2]/?/?/a[@id='ft_bookbtn']"
+				itempath=".//ul[#'fl']/li/div[4]/div/div[2]/?/?/a[@id='ft_bookbtn']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.FtBookbtn"
+				id="4ecebe88fd7a4b9481ead5439ff28292"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="158"
+				itemindex="19"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:34.398"
+			timeRelativeToTestModuleStartTime="00:34.399"
+			timeWallClock="15:22:48"
+			time="00:34.398"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -120 units.
+			</message>
+			<metainfo
+				itemindex="20"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="162"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:34.910"
+			timeRelativeToTestModuleStartTime="00:34.911"
+			timeWallClock="15:22:48"
+			time="00:34.910"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.OnwRedbusnewAt200001192974000153034' at 7;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//a[#'onw~redbusnew@2000011929740001530~34']"
+				itempath=".//a[#'onw~redbusnew@2000011929740001530~34']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.OnwRedbusnewAt200001192974000153034"
+				id="dc39e6340fe2456199241accbb57b99e"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="166"
+				itemindex="21"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:36.606"
+			timeRelativeToTestModuleStartTime="00:36.607"
+			timeWallClock="15:22:50"
+			time="00:36.606"
+			level="Info"
+			category="Set value">
+			<message>
+				Setting attribute TagValue to '25288-Sagar Pur' on item 'Hotel.OnlineFlightBookingHotelsBusAmp.BpOnwRedbusnewAt2000011929740001530'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//select[#'bp-onw-redbusnew@2000011929740001530']"
+				itempath=".//select[#'bp-onw-redbusnew@2000011929740001530']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.BpOnwRedbusnewAt2000011929740001530"
+				id="d8e5477226b740f49ed676cbc01a9ec3"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="170"
+				itemindex="22"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:36.926"
+			timeRelativeToTestModuleStartTime="00:36.927"
+			timeWallClock="15:22:50"
+			time="00:36.926"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.Confirm' at 28;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//a[#'confirm']"
+				itempath=".//a[#'confirm']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Confirm"
+				id="53e9fa60eb2343968ac0dc0741a7af9a"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="174"
+				itemindex="23"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:38.108"
+			timeRelativeToTestModuleStartTime="00:38.109"
+			timeWallClock="15:22:52"
+			time="00:38.108"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -840 units.
+			</message>
+			<metainfo
+				itemindex="24"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="178"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:38.612"
+			timeRelativeToTestModuleStartTime="00:38.613"
+			timeWallClock="15:22:52"
+			time="00:38.612"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 840 units.
+			</message>
+			<metainfo
+				itemindex="25"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="182"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:39.129"
+			timeRelativeToTestModuleStartTime="00:39.130"
+			timeWallClock="15:22:53"
+			time="00:39.129"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.CancellationPolicy' at 60;3.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'bk_step1']/div[2]/div[2]/div[2]/div[3]/a[@innertext='Cancellation Policy']"
+				itempath=".//div[#'bk_step1']/div[2]/div[2]/div[2]/div[3]/a[@innertext='Cancellation Policy']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.CancellationPolicy"
+				id="d798804f0f694f28af4e735b710aa8aa"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="186"
+				itemindex="26"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:41.908"
+			timeRelativeToTestModuleStartTime="00:41.909"
+			timeWallClock="15:22:55"
+			time="00:41.908"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid0' at 3;2.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'go_fareRulespopUp']/?/?/a[@href='javascript:void(0)']"
+				itempath=".//div[#'go_fareRulespopUp']/?/?/a[@href='javascript:void(0)']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid0"
+				id="85ffe1b37b4746c8996f9a195227ccf5"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="190"
+				itemindex="27"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:42.209"
+			timeRelativeToTestModuleStartTime="00:42.210"
+			timeWallClock="15:22:56"
+			time="00:42.209"
+			level="Warn"
+			category="Click"
+			errimg=".\GIBUS201_fb4fa9ce_rxlog.jpg"
+			errthumb=".\GIBUS201_fb4fa9ce_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="191"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:43.089"
+			timeRelativeToTestModuleStartTime="00:43.090"
+			timeWallClock="15:22:57"
+			time="00:43.089"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -720 units.
+			</message>
+			<metainfo
+				itemindex="28"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="194"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:43.602"
+			timeRelativeToTestModuleStartTime="00:43.603"
+			timeWallClock="15:22:57"
+			time="00:43.602"
+			level="Info"
+			category="Set value">
+			<message>
+				Setting attribute TagValue to '1' on item 'Hotel.OnlineFlightBookingHotelsBusAmp.Adultchoose1'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//select[#'adultchoose1']"
+				itempath=".//select[#'adultchoose1']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Adultchoose1"
+				id="c2fea87453144c818d5d2ad1cbb4d267"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="198"
+				itemindex="29"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:43.895"
+			timeRelativeToTestModuleStartTime="00:43.896"
+			timeWallClock="15:22:57"
+			time="00:43.895"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.Adultfirstname1' at 51;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'adultfirstname1']"
+				itempath=".//input[#'adultfirstname1']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Adultfirstname1"
+				id="dc24bedab00e4c91ad038f44ee651e12"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="202"
+				itemindex="30"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:45.026"
+			timeRelativeToTestModuleStartTime="00:45.027"
+			timeWallClock="15:22:59"
+			time="00:45.026"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'Devendra{Tab}Gupta{Tab}22' with focus on 'Hotel.OnlineFlightBookingHotelsBusAmp.Adultfirstname1'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'adultfirstname1']"
+				itempath=".//input[#'adultfirstname1']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Adultfirstname1"
+				id="dc24bedab00e4c91ad038f44ee651e12"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="206"
+				itemindex="31"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:47.366"
+			timeRelativeToTestModuleStartTime="00:47.367"
+			timeWallClock="15:23:01"
+			time="00:47.366"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.Email' at 191;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'email']"
+				itempath=".//input[#'email']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Email"
+				id="d1216c00edc647139d95348b0f8709b8"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="210"
+				itemindex="32"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:48.495"
+			timeRelativeToTestModuleStartTime="00:48.496"
+			timeWallClock="15:23:02"
+			time="00:48.495"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{LControlKey down}{Akey}{LControlKey up}{Back}testnoc009{LShiftKey down}{@ down}{LShiftKey up}gmail.com' with focus on 'Hotel.OnlineFlightBookingHotelsBusAmp.Email'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'email']"
+				itempath=".//input[#'email']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Email"
+				id="d1216c00edc647139d95348b0f8709b8"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="214"
+				itemindex="33"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:51.266"
+			timeRelativeToTestModuleStartTime="00:51.267"
+			timeWallClock="15:23:05"
+			time="00:51.266"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.Mobile' at 154;22.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'mobile']"
+				itempath=".//input[#'mobile']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Mobile"
+				id="3841ddbdf79b495eb13f9931dfcf78c2"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="218"
+				itemindex="34"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:52.452"
+			timeRelativeToTestModuleStartTime="00:52.453"
+			timeWallClock="15:23:06"
+			time="00:52.452"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key 'Ctrl+A' Press with focus on 'Hotel.OnlineFlightBookingHotelsBusAmp.Mobile'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'mobile']"
+				itempath=".//input[#'mobile']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Mobile"
+				id="3841ddbdf79b495eb13f9931dfcf78c2"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="222"
+				itemindex="35"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:52.708"
+			timeRelativeToTestModuleStartTime="00:52.709"
+			timeWallClock="15:23:06"
+			time="00:52.708"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Back}9999999999' with focus on 'Hotel.OnlineFlightBookingHotelsBusAmp.Mobile'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'mobile']"
+				itempath=".//input[#'mobile']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Mobile"
+				id="3841ddbdf79b495eb13f9931dfcf78c2"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="227"
+				itemindex="36"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:54.608"
+			timeRelativeToTestModuleStartTime="00:54.609"
+			timeWallClock="15:23:08"
+			time="00:54.608"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.SpanTagFareBreakup' at 5;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//a[#'link_fb']/span[@innertext=' Fare Breakup']"
+				itempath=".//a[#'link_fb']/span[@innertext=' Fare Breakup']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.SpanTagFareBreakup"
+				id="5b718ecf8fe944d192b2c8f3fc672fb5"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="231"
+				itemindex="37"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:55.873"
+			timeRelativeToTestModuleStartTime="00:55.874"
+			timeWallClock="15:23:09"
+			time="00:55.873"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid01' at 8;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'go_fb_popCont']/?/?/a[@href='javascript:void(0)']"
+				itempath=".//div[#'go_fb_popCont']/?/?/a[@href='javascript:void(0)']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid01"
+				id="f78da013374d43cfb6018cebf2ec71b9"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="235"
+				itemindex="38"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:56.880"
+			timeRelativeToTestModuleStartTime="00:56.881"
+			timeWallClock="15:23:10"
+			time="00:56.880"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.FIRSTBUS' at 10;8.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'FIRSTBUS']"
+				itempath=".//input[#'FIRSTBUS']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.FIRSTBUS"
+				id="8ebb4370c1954a26aabd0fabe51827ba"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="239"
+				itemindex="39"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:58.039"
+			timeRelativeToTestModuleStartTime="00:58.040"
+			timeWallClock="15:23:12"
+			time="00:58.039"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid0' at 8;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'go_fareRulespopUp']/?/?/a[@href='javascript:void(0)']"
+				itempath=".//div[#'go_fareRulespopUp']/?/?/a[@href='javascript:void(0)']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid0"
+				id="85ffe1b37b4746c8996f9a195227ccf5"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="243"
+				itemindex="40"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:59.138"
+			timeRelativeToTestModuleStartTime="00:59.139"
+			timeWallClock="15:23:13"
+			time="00:59.138"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.Get10PercentUptoRs50Off' at 45;11.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'bk_step1']/div[2]/div[2]/div[8]/div[1]/label[2]/span[@innertext='Get 10% upto Rs. 50 off']"
+				itempath=".//div[#'bk_step1']/div[2]/div[2]/div[8]/div[1]/label[2]/span[@innertext='Get 10% upto Rs. 50 off']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Get10PercentUptoRs50Off"
+				id="6fc47343f4064a3f80828629da34a4b9"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="247"
+				itemindex="41"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:00.296"
+			timeRelativeToTestModuleStartTime="01:00.297"
+			timeWallClock="15:23:14"
+			time="01:00.296"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid0' at 10;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'go_fareRulespopUp']/?/?/a[@href='javascript:void(0)']"
+				itempath=".//div[#'go_fareRulespopUp']/?/?/a[@href='javascript:void(0)']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid0"
+				id="85ffe1b37b4746c8996f9a195227ccf5"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="251"
+				itemindex="42"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:01.431"
+			timeRelativeToTestModuleStartTime="01:01.432"
+			timeWallClock="15:23:15"
+			time="01:01.431"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.MakePayment' at 244;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'makePayment']"
+				itempath=".//input[#'makePayment']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.MakePayment"
+				id="723ac9d947d142b3accd646aa58f4265"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="255"
+				itemindex="43"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:02.643"
+			timeRelativeToTestModuleStartTime="01:02.644"
+			timeWallClock="15:23:16"
+			time="01:02.643"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -720 units.
+			</message>
+			<metainfo
+				itemindex="44"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="259"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:03.153"
+			timeRelativeToTestModuleStartTime="01:03.154"
+			timeWallClock="15:23:17"
+			time="01:03.153"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 840 units.
+			</message>
+			<metainfo
+				itemindex="45"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="263"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:03.665"
+			timeRelativeToTestModuleStartTime="01:03.666"
+			timeWallClock="15:23:17"
+			time="01:03.665"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -720 units.
+			</message>
+			<metainfo
+				itemindex="46"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="267"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:04.173"
+			timeRelativeToTestModuleStartTime="01:04.174"
+			timeWallClock="15:23:18"
+			time="01:04.173"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 720 units.
+			</message>
+			<metainfo
+				itemindex="47"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="271"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:04.676"
+			timeRelativeToTestModuleStartTime="01:04.677"
+			timeWallClock="15:23:18"
+			time="01:04.676"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -720 units.
+			</message>
+			<metainfo
+				itemindex="48"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="275"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:05.182"
+			timeRelativeToTestModuleStartTime="01:05.183"
+			timeWallClock="15:23:19"
+			time="01:05.182"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by 360 units.
+			</message>
+			<metainfo
+				itemindex="49"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="279"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:05.691"
+			timeRelativeToTestModuleStartTime="01:05.692"
+			timeWallClock="15:23:19"
+			time="01:05.691"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -360 units.
+			</message>
+			<metainfo
+				itemindex="50"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="283"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:06.206"
+			timeRelativeToTestModuleStartTime="01:06.207"
+			timeWallClock="15:23:20"
+			time="01:06.206"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.IconInfoDibIco14GreyDrMarginL10VMi' at 1;3.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'pay_amount_section_cc_card']//a[@href~'^https://www\.goibibo\.com/b']/i"
+				itempath=".//div[#'pay_amount_section_cc_card']//a[@href~'^https://www\.goibibo\.com/b']/i"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.IconInfoDibIco14GreyDrMarginL10VMi"
+				id="0768336730c94f7e82ace79ccb3259e5"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="287"
+				itemindex="51"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:16.882"
+			timeRelativeToTestModuleStartTime="01:16.883"
+			timeWallClock="15:23:30"
+			time="01:16.882"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid0' at 4;7.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'go_fareRulespopUp']/?/?/a[@href='javascript:void(0)']"
+				itempath=".//div[#'go_fareRulespopUp']/?/?/a[@href='javascript:void(0)']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.JavascriptVoid0"
+				id="85ffe1b37b4746c8996f9a195227ccf5"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="291"
+				itemindex="52"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:18.033"
+			timeRelativeToTestModuleStartTime="01:18.034"
+			timeWallClock="15:23:32"
+			time="01:18.033"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -600 units.
+			</message>
+			<metainfo
+				itemindex="53"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="295"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:18.547"
+			timeRelativeToTestModuleStartTime="01:18.548"
+			timeWallClock="15:23:32"
+			time="01:18.547"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.TabnavOpts.NetBanking' at 43;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//ul[#'tabnav_opts']/?/?/a[@innertext='Net Banking']"
+				itempath="?/?/a[@innertext='Net Banking']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.TabnavOpts.NetBanking"
+				id="e9319fb9bdbf4d86b91cae8ef433d583"
+				timeout="90000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="299"
+				itemindex="54"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:19.775"
+			timeRelativeToTestModuleStartTime="01:19.776"
+			timeWallClock="15:23:33"
+			time="01:19.775"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.PayNetbRb' at 4;5.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'netBank']/div[2]/div[6]/?/?/input[@name='pay_netb_rb']"
+				itempath=".//div[#'netBank']/div[2]/div[6]/?/?/input[@name='pay_netb_rb']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.PayNetbRb"
+				id="ff7fd5c26774478eaf4ed7cad0ad07ba"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="303"
+				itemindex="55"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:21.020"
+			timeRelativeToTestModuleStartTime="01:21.021"
+			timeWallClock="15:23:35"
+			time="01:21.020"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.Submit' at 178;25.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'netBank']/div[3]/div[4]/?/?/input[@type='submit']"
+				itempath=".//div[#'netBank']/div[3]/div[4]/?/?/input[@type='submit']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.Submit"
+				id="520a26f0b69c478f9080d45d0f2140fc"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="307"
+				itemindex="56"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:22.280"
+			timeRelativeToTestModuleStartTime="01:22.281"
+			timeWallClock="15:23:36"
+			time="01:22.280"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -240 units.
+			</message>
+			<metainfo
+				itemindex="57"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="311"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:22.791"
+			timeRelativeToTestModuleStartTime="01:22.792"
+			timeWallClock="15:23:36"
+			time="01:22.791"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.StateBankOfIndiaInternetBanking.ClickHere' at 19;6.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='merchant.onlinesbi.com']//div[#'login_block']/div[5]/ul/?/?/a[@innertext='Click here']"
+				itempath=".//div[#'login_block']/div[5]/ul/?/?/a[@innertext='Click here']"
+				fullname="IF.Hotel.StateBankOfIndiaInternetBanking.ClickHere"
+				id="7928f73a08024616894cd66df070403c"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="315"
+				itemindex="58"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:24.865"
+			timeRelativeToTestModuleStartTime="01:24.866"
+			timeWallClock="15:23:38"
+			time="01:24.865"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.HttpsGoibiboIbcdnComStyleguideIma' at 58;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']/body/div[1]/?/?/a[@href='https://www.goibibo.com/']/img[@src='https://goibibo.ibcdn.com/styleguide/images/goLogo.png']"
+				itempath="body/div[1]/?/?/a[@href='https://www.goibibo.com/']/img[@src='https://goibibo.ibcdn.com/styleguide/images/goLogo.png']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.HttpsGoibiboIbcdnComStyleguideIma"
+				id="6466d183d6794a09989286c9d792321f"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\GIBUS.cs"
+				codeline="319"
+				itemindex="59"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

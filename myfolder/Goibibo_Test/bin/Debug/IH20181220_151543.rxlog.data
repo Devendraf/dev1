@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="24.43s"
+		durationms="24432"
+		type="root"
+		rid="7229ff264d3a760"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="devendra.gupta"
+		rxversion="8.3.0.0"
+		host="GI-TEMP-NOC"
+		osversion="Windows 7 Service Pack 1 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="12/20/2018 3:15:47 PM"
+		timestampiso="2018-12-20T09:45:47"
+		endtime="12/20/2018 3:16:11 PM"
+		timeoutfactor="1"
+		module="IH">
+		<detail>
+			IH
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.990"
+			timeRelativeToTestModuleStartTime="00:09.991"
+			timeWallClock="15:15:57"
+			time="00:09.990"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.IconHotelsDbBlueIco28Lh12PadT2Pa' at 21;20.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'header']/div[1]/ul/?/?/a[@href~'^https://www\.goibibo\.com/h']/i"
+				itempath=".//div[#'header']/div[1]/ul/?/?/a[@href~'^https://www\.goibibo\.com/h']/i"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.IconHotelsDbBlueIco28Lh12PadT2Pa"
+				id="0245dadfdf1e4206bccebf7836f27376"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\IH.cs"
+				codeline="82"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.561"
+			timeRelativeToTestModuleStartTime="00:13.562"
+			timeWallClock="15:16:00"
+			time="00:13.561"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.GosuggestInputL' at 70;16.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'gosuggest_inputL']"
+				itempath=".//input[#'gosuggest_inputL']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.GosuggestInputL"
+				id="63de5196a41e4f6c9acacd012f9f5d18"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\IH.cs"
+				codeline="86"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.179"
+			timeRelativeToTestModuleStartTime="00:15.180"
+			timeWallClock="15:16:02"
+			time="00:15.179"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'singa' with focus on 'Hotel.OnlineFlightBookingHotelsBusAmp.GosuggestInputL'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//input[#'gosuggest_inputL']"
+				itempath=".//input[#'gosuggest_inputL']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.GosuggestInputL"
+				id="63de5196a41e4f6c9acacd012f9f5d18"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\IH.cs"
+				codeline="90"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.695"
+			timeRelativeToTestModuleStartTime="00:16.696"
+			timeWallClock="15:16:03"
+			time="00:16.695"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.SingaporeSingapore' at 85;3.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//li[#'react-autosuggest-1-suggestion--0']/div/div[1]/?/?/span[@innertext='Singapore, Singapore']"
+				itempath=".//li[#'react-autosuggest-1-suggestion--0']/div/div[1]/?/?/span[@innertext='Singapore, Singapore']"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.SingaporeSingapore"
+				id="997a49dc0dd44733bac93338128c36db"
+				timeout="60000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\IH.cs"
+				codeline="94"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:18.007"
+			timeRelativeToTestModuleStartTime="00:18.008"
+			timeWallClock="15:16:05"
+			time="00:18.007"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Hotel.OnlineFlightBookingHotelsBusAmp.ColMd12ColSm12ColXs12Pad0.Text' at 102;13.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.goibibo.com']//div[#'Home']/div[3]/div[1]/div[1]/div[3]//input"
+				itempath=".//input"
+				fullname="IF.Hotel.OnlineFlightBookingHotelsBusAmp.ColMd12ColSm12ColXs12Pad0.Text"
+				id="d743aa19feb6440fb07fedfba2f9462d"
+				timeout="90000"
+				codefile="c:\Users\devendra.gupta\Documents\Ranorex\RanorexStudio Projects\Goibibo_Test\Goibibo_Test\IH.cs"
+				codeline="98"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:24.433"
+			timeRelativeToTestModuleStartTime="00:24.434"
+			timeWallClock="15:16:11"
+			time="00:24.433"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>
